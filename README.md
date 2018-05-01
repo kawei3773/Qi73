@@ -5,11 +5,11 @@
 img{ height: 250px;
 width:300px;
 }
-    .owo{
-    font-size 45px;
-    }
-    #owo{
-    #ff0066
+.owo{
+font-size 45px;
+}
+#owo{
+#ff0066
     }
   <head>
     <body>
