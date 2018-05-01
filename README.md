@@ -8,6 +8,7 @@ font-size:45px;
 #a{
 color:#ff1a75;
 }
+  </style>
 </head>
 <body>
 <div class="a" id="a">
