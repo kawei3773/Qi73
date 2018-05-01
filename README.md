@@ -10,18 +10,18 @@
 div{
   background-color:#33ff77;
 }
-.owo{
-  font-size: 130px;
-}
-.ww{
-  font-size:50px;
-}
-#owo{
-  color: #002b80;
-}
-#www{
-  color:#ff6666;
-}
+  .owo{
+    font-size: 130px;
+  }
+  .ww{
+    font-size:50px;
+  }
+  #owo{
+    color: #002b80;
+  }
+  #www{
+    color:#ff6666;
+  }
 #ww{
   color:#4d004d;
 }
