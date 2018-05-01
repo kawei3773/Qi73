@@ -1,6 +1,3 @@
-<head>
-  <title>Qi73</title>
-  </head>
   <body>
   <div>
     owb
