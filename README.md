@@ -14,8 +14,5 @@
 		<div>
 			<img src="http://p2.qhmsg.com/t01f4aa7945a74ad99b.png" alt="owo">
 		</div>
-		<iframe width="420" height="315"
-						src="https://www.youtube.com/watch?v=AN3nAmTSeEk&t=1">
-			</ifreme>	
 	</body>
 	</html>
