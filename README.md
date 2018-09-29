@@ -103,7 +103,7 @@
             </div>
         </div>
     </ul>
-    <p>Text</p>
+    <p>Tex</p>
     <p>Text</p>
     <p>Text</p>
     <p>Text</p>
